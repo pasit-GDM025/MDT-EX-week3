@@ -13,6 +13,9 @@ public class program
    string RegistedValue = Console.ReadLine();
    InformationInput myInformation = new InformationInput(ShopName, OwnerNumber, OwnerName, RegistedValue);
    PrintInformationInput (myInformation);
+   double money = double.Parse(Console.ReadLine());
+   CoinChange bahtChange =  new CoinChange();
+   bahtChange.MoneyChange(money);
 }
 
  static void PrintInformationInput(InformationInput Information) {
