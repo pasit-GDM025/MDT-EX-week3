@@ -1,0 +1,15 @@
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\bin\Debug\net6.0\MDT-Ex-week3.exe
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\bin\Debug\net6.0\MDT-Ex-week3.deps.json
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\bin\Debug\net6.0\MDT-Ex-week3.runtimeconfig.json
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\bin\Debug\net6.0\MDT-Ex-week3.dll
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\bin\Debug\net6.0\MDT-Ex-week3.pdb
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.csproj.AssemblyReference.cache
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.AssemblyInfoInputs.cache
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.AssemblyInfo.cs
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.csproj.CoreCompileInputs.cache
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.dll
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\refint\MDT-Ex-week3.dll
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.pdb
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\MDT-Ex-week3.genruntimeconfig.cache
+D:\Works\GDMY2\CODEY2\MDTEx week3\MDT-Ex-week3\obj\Debug\net6.0\ref\MDT-Ex-week3.dll
