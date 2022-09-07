@@ -24,8 +24,5 @@ public class program
     Console.WriteLine("-----------------------------------");
 }
 }
-class CoinChange
-{
 
-}
 
