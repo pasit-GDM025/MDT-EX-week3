@@ -34,7 +34,7 @@ public static string InputMoney()
             return number;
         }
 
-        throw new Exception("Pra trai pi dok yad tood!");
+        throw new Exception("DUDE!!");
     }
 
  static void PrintInformationInput(InformationInput Information) 
